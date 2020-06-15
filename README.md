@@ -1,4 +1,4 @@
-#ics manipulation practice
+# ics date shifting practice
 
 ## Setting up your environment
 ```sh
