@@ -2,7 +2,9 @@
 
 ## Setting up your environment
 ```sh
-pip install icalendar
+pip3 install ics
+pip3 install arrow
+pip3 install datetime
 ```
 
 go to the folder with the python file
