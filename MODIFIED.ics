@@ -2,52 +2,383 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Google Inc//Google Calendar 70.9054//EN
 BEGIN:VEVENT
-CREATED:20200612T223947Z
+CREATED:20200604T180312Z
 SEQUENCE:0
-DTSTAMP:20200612T224243Z
-DTEND:20200617T180000Z
-LAST-MODIFIED:20200612T223947Z
-DTSTART:20200617T170000Z
+DTSTART;VALUE=DATE:20200326
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Grab a partner and read “Unpacking the Invisible Knapsack” https://www.racialequitytools.org/resourcefiles/mcintosh.pdf
+LAST-MODIFIED:20200604T192015Z
 STATUS:CONFIRMED
-SUMMARY:one time
-TRANSP:OPAQUE
-UID:7jaoiph7udlk3i46oqrepm3idn@google.com
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20200612T224121Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20200701
-DTSTAMP:20200612T224243Z
-LAST-MODIFIED:20200612T224121Z
-STATUS:CONFIRMED
-SUMMARY:All day
+SUMMARY:Day 22
 TRANSP:TRANSPARENT
-UID:2ktfjqbqgp6srenbqe6e6e4607@google.com
+UID:48hnoce1en01d366d46j9puioc@google.com
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20200612T224113Z
+CREATED:20200604T175926Z
 SEQUENCE:0
-DTSTART;VALUE=DATE:20200623
-DTEND;VALUE=DATE:20200625
-DTSTAMP:20200612T224243Z
-LAST-MODIFIED:20200612T224114Z
+DTSTART;VALUE=DATE:20200317
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Read MLK’s “Letter From a Birmingham Jail” and write 5 bullet points that draw comparisons between the society he is describing and the one we live in today\n\nhttp://web.cn.edu/kwheeler/documents/letter_birmingham_jail.pdf
+LAST-MODIFIED:20200604T191238Z
 STATUS:CONFIRMED
-SUMMARY:2 days
+SUMMARY:Day 13
 TRANSP:TRANSPARENT
-UID:4b29lovjm4kobl00595056m8c6@google.com
+UID:69pbotjoami3hm0j7tle3eievq@google.com
 END:VEVENT
 BEGIN:VEVENT
-RRULE:FREQ=WEEKLY;BYDAY=TH
-CREATED:20200612T223935Z
+CREATED:20200604T175620Z
 SEQUENCE:0
-DTSTAMP:20200612T224243Z
-DTEND:20200611T233000Z
-LAST-MODIFIED:20200612T223935Z
-LOCATION:Santa Clara\, CA\, USA
-DTSTART:20200611T223000Z
+DTSTART;VALUE=DATE:20200311
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Spend 15 minutes learning about police policy reform at 8cantwait.org
+LAST-MODIFIED:20200604T182523Z
 STATUS:CONFIRMED
-SUMMARY:weekly
-TRANSP:OPAQUE
-UID:2uc0b3puhla3cbprgjdg2fnf8b@google.com
+SUMMARY:Day 7
+TRANSP:TRANSPARENT
+UID:1mtp0k8goi769am37ds18f7a6b@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180810Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200404
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Congratulations\, you’re one month wiser than you used to be! Now\, remember you have a lifetime of education and work to go. On this July 4th\, celebrate the hope of change in our country rather than its history. Love to all — can’t wait to watch us burn racism to the ground.
+LAST-MODIFIED:20200604T192415Z
+STATUS:CONFIRMED
+SUMMARY:This is Just the Beginning...
+TRANSP:TRANSPARENT
+UID:29au70oaho5aaul7ba4hrh98m6@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180208Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200323
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Make your way through The Atlantic’s “The Case for Reparations.” It’s long\, but at least familiarize yourself with what’s in it.\n\nhttps://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/
+LAST-MODIFIED:20200604T191904Z
+STATUS:CONFIRMED
+SUMMARY:Day 19
+TRANSP:TRANSPARENT
+UID:1khhfpigo0iog57qnrnk7e11sj@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175906Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200316
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Email your mayor\, governor\, and/or attorney general to demand structural change based on the research you’ve done over the past few weeks. Find a list of your representatives and their contact information here: \n\nhttps://www.usa.gov/elected-officials
+LAST-MODIFIED:20200604T191732Z
+STATUS:CONFIRMED
+SUMMARY:Day 12
+TRANSP:TRANSPARENT
+UID:4lkpcp64gea1ckm90lcugvs2g3@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175828Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200315
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Order food from a black-owned restaurant in your area (if you don’t know of any\, use https://officialblackwallstreet.com/directory/ to help direct you)
+LAST-MODIFIED:20200604T191705Z
+STATUS:CONFIRMED
+SUMMARY:Day 11
+TRANSP:TRANSPARENT
+UID:0fcvfoe321pso9ckr0742io3cn@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180650Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200401
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Keep in mind:\, the anti-racism and black lives matter movements still have staunch opposition in this country. Remember Charlottesville? Watch this video: \nhttps://m.youtube.com/watch?v=kerAy94eWLc
+LAST-MODIFIED:20200604T192341Z
+STATUS:CONFIRMED
+SUMMARY:Day 28
+TRANSP:TRANSPARENT
+UID:75ajorb5hucq62v75aqkjk5m61@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175528Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200309
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Write a journal entry about your role in racist America. Need some prompts? Consider: Who can you have anti-racism conversations with\, and who can’t you? Why? What scares you about addressing and examining racism? In what ways are your own feelings of guilt\, shame\, or whatever else impeding you from taking anti-racist action? Where do black people fit into your life and why (Friends? Media consumption? Boss? Nowhere?)?
+LAST-MODIFIED:20200604T191546Z
+STATUS:CONFIRMED
+SUMMARY:Day 5
+TRANSP:TRANSPARENT
+UID:6lqdi5las2e0qec1igr0634qfe@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180334Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200327
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Donate to a local anti-racism initiative in your area. See http://bit.ly/localbailfunds for information about contributing to local bail funds
+LAST-MODIFIED:20200604T192229Z
+STATUS:CONFIRMED
+SUMMARY:Day 23
+TRANSP:TRANSPARENT
+UID:0fbv89nfaf6pne2nr3v37emahu@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180359Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200328
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Call out a brand you know for not doing enough to be anti-racist (you know\, not doing more than the black square and the public statement)
+LAST-MODIFIED:20200604T192239Z
+STATUS:CONFIRMED
+SUMMARY:Day 24
+TRANSP:TRANSPARENT
+UID:0vdp8qmouiejqvcuh9sji9m238@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175306Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+DTSTART;VALUE=DATE:20200305
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Introduce yourself to some of the topics we’ll be learning more about over the course of the month with this video \n\nhttps://m.youtube.com/watch?v=YrHIQIO_bdQ&nbsp
+LAST-MODIFIED:20200605T000138Z
+STATUS:CONFIRMED
+SUMMARY:Introduction
+TRANSP:TRANSPARENT
+UID:18d6iqrp4n28idos6udhqbvp8f@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175746Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200314
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Follow 5 racially-oriented accounts\, black influencers\, and anti-racist accounts on instagram. Use the link below to find a few based on what you’re looking for!!\n\nhttps://www.instagram.com/p/CA6uaBGpU6_/?igshid=1uo3byfthay3x
+LAST-MODIFIED:20200604T191638Z
+STATUS:CONFIRMED
+SUMMARY:Day 10
+TRANSP:TRANSPARENT
+UID:1lhf289rvg23f2evbgj3o9d7cn@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180711Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200402
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Read Vox’s “What it means to me anti-racist” to learn more about how you can continue the fight against racism once this month ends.\nhttps://www.vox.com/2020/6/3/21278245/antiracist-racism-race-books-resources-antiracism
+LAST-MODIFIED:20200604T182922Z
+STATUS:CONFIRMED
+SUMMARY:Day 29
+TRANSP:TRANSPARENT
+UID:6ruchccadrf36t0rlhq5um24fa@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175557Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200310
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Call or text a childhood friend or sibling about the role of race in your upbringing
+LAST-MODIFIED:20200604T191558Z
+STATUS:CONFIRMED
+SUMMARY:Day 6
+TRANSP:TRANSPARENT
+UID:6ajph880h5nu7ti9gf1c0e0c6t@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175959Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200318
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Watch TED Talk “How We’re Priming Some Kids for College”\n\nhttps://www.ted.com/talks/alice_goffman_how_we_re_priming_some_kids_for_college_and_others_for_prison?referrer=playlist-talks_to_help_you_understand_r#t-3546
+LAST-MODIFIED:20200604T191750Z
+STATUS:CONFIRMED
+SUMMARY:Day 14
+TRANSP:TRANSPARENT
+UID:0t8ackh2pg80ovd0am37mjsjf3@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180109Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200321
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Educate yourself on these specific policies and other occurrences that disproportionately affect black people with simple Google searches for 20 minutes: mandatory minimum sentencing\, mass incarceration\, weed criminalization\, redlining\, unemployment\, qualified immunity\, and any others you find!
+LAST-MODIFIED:20200604T191845Z
+STATUS:CONFIRMED
+SUMMARY:Day 17
+TRANSP:TRANSPARENT
+UID:57jhhs5dju4f64popb8hsla5gm@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175341Z
+SEQUENCE:0
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+DTSTART;VALUE=DATE:20200306
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Listen to the New York Times’s The Daily called “The Systems that Protect the Police” to learn more about police power and protections\nhttps://open.spotify.com/episode/0gSO1Rypyoll5vDnhmmDT5?si=0KOtzT8JQJ2dheMdT26LPg\n\nBONUS: Take THIS Implicit Bias Test: https://implicit.harvard.edu/implicit/takeatest.html
+LAST-MODIFIED:20200605T000147Z
+STATUS:CONFIRMED
+SUMMARY:Day 2
+TRANSP:TRANSPARENT
+UID:1qbs5lknpaio0dhmqtk6hqqtd9@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180147Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200322
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Buy a book from a black-owned bookstore (black-owned bookstores with online ordering available: The Lit Bar (@thelitbar)\, Harriett’s Bookshop (@harrietts_bookshop)\, Hakim’s Bookstore (@hakimsbookstore)\, Semicolon Bookstore (@semicolonchi)\, Mahogany Books (@mahoganybooks)\, Key Bookstore (@keybookstore)\, Uncle Bobbies (@unclebobbies))
+LAST-MODIFIED:20200604T180147Z
+STATUS:CONFIRMED
+SUMMARY:Day 18
+TRANSP:TRANSPARENT
+UID:6deu25rbdhaiut3l9p161s1930@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180608Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200331
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Start watching a racially focused TV show or movie (Netflix: 13th\, When They See Us\, See You Yesterday\, American Son\, Dear White People\; Hulu: If Beale Street Could Talk\, The Hate U Give\; Other: Selma\, Just Mercy\, I Am Not Your Negro\, The Black Panthers\, The House I Live In)
+LAST-MODIFIED:20200604T192328Z
+STATUS:CONFIRMED
+SUMMARY:Day 27
+TRANSP:TRANSPARENT
+UID:47gkcaqlb4apfrremorpvpalcq@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180021Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200319
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Sign a petition (justiceforbigfloyd.com\, runwithmaud.com\, standwithbre.com\, or any others at http://colorofchange.org/campaigns/active)
+LAST-MODIFIED:20200604T191821Z
+STATUS:CONFIRMED
+SUMMARY:Day 15
+TRANSP:TRANSPARENT
+UID:2dpb390s8vs9pfuv49jsejnc9i@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180226Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200324
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Reach out to one other person who may not be registered to vote to get them registered. You can use https://www.vote.org/register-to-vote/ to do so
+LAST-MODIFIED:20200604T191927Z
+STATUS:CONFIRMED
+SUMMARY:Day 20
+TRANSP:TRANSPARENT
+UID:5dhd44g4ev7p1fhjsp6ggqs1ga@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175407Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200307
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Donate to a national effort to end systemic racism such as:\n\nCampaign Zero www.joincampaignzero.org \nBlack Lives Matter blacklivesmatter.com\nCommunities United Against Police Brutality cuapb.org\nNational Black Bailout Fund nationalbailout.org\nBlack Visions Collective blackvisionmn.org\nReclaim the Block reclaimtheblock.org \nKnow Your Rights Camp knowyourrightscamp.org\nNAACP Legal Defense Fund naacpldf.org\nAmerican Civil Liberties Union aclu.org\nor any other black-focused organization you feel passionate about supporting\n\nAND send an email through defund12.org !! Takes ~30 seconds and is personalized to your city!
+LAST-MODIFIED:20200605T043900Z
+STATUS:CONFIRMED
+SUMMARY:Day 3
+TRANSP:TRANSPARENT
+UID:4j2uj6pj5jkfr26js6gfs67opb@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175436Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200308
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Watch TED Talk “How Studying Privilege Systems Can Strengthen Compassion” \n\nhttps://m.youtube.com/watch?feature=youtu.be&amp\;v=e-BY9UEewHw
+LAST-MODIFIED:20200604T191450Z
+STATUS:CONFIRMED
+SUMMARY:Day 4
+TRANSP:TRANSPARENT
+UID:543tt2oo0lnil9rtmege3d9eag@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180429Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200329
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Watch The Racial Wealth Gap by Vox/Netflix\n\nhttps://m.youtube.com/watch?v=Mqrhn8khGLM
+LAST-MODIFIED:20200604T192305Z
+STATUS:CONFIRMED
+SUMMARY:Day 25
+TRANSP:TRANSPARENT
+UID:2sgn6fvitmq97l0t91895bep5e@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180744Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200403
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Order one of these books to continue your anti-racist education because\, newsflash\, it doesn’t end here. Book ideas: White Fragility\, The New Jim Crow\, Why I’m No Longer Talking to White People About Race\, So You Want to Talk About Race\, Black Feminist Thought\, The Next American Revolution\, I Know Why the Caged Bird Sings\, Eloquent Rage\, Me and White Supremacy\, The Warmth of Other Suns\, Sister Outsider\, The Bridge Called my Back\, The Color of Law\, Just Mercy\, America’s Original Sin\, or any others you have been wanting to read. Oh\, and READ IT.
+LAST-MODIFIED:20200604T192404Z
+STATUS:CONFIRMED
+SUMMARY:Day 30
+TRANSP:TRANSPARENT
+UID:5et9khkojbagf9d1sckj1r6goq@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180244Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200325
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Watch TED Talk “How to Overcome Our Biases? Walk Boldly Toward Them” \n\nhttps://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them/up-next?referrer=playlist-talks_to_help_you_understand_r
+LAST-MODIFIED:20200604T192005Z
+STATUS:CONFIRMED
+SUMMARY:Day 21
+TRANSP:TRANSPARENT
+UID:4rbls24sqp355qiobbthsaoppu@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175715Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200313
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Spend 15 minutes scrolling through The 1619 Project to learn more about how prevalent racism is in every aspect of our society\n\nhttps://www.nytimes.com/interactive/2019/12/20/magazine/1619-intro.html
+LAST-MODIFIED:20200604T191619Z
+STATUS:CONFIRMED
+SUMMARY:Day 9
+TRANSP:TRANSPARENT
+UID:4ac70q6me8gmf11t13cmi7n2k3@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180046Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200320
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Listen to a podcast from the New York Times’s 1619 https://open.spotify.com/show/7j5MhJCMBvOjF1Asi9LPLX?si=wXfuENNPQnuZpHD8pDp0mA
+LAST-MODIFIED:20200604T191833Z
+STATUS:CONFIRMED
+SUMMARY:Day 16
+TRANSP:TRANSPARENT
+UID:1vsgrd8s91torngulpl4ssoovt@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T175645Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200312
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Attend a protest\, physically or virtually
+LAST-MODIFIED:20200604T175645Z
+STATUS:CONFIRMED
+SUMMARY:Day 8
+TRANSP:TRANSPARENT
+UID:7ir2jf8er46osb7949ptlgaqnl@google.com
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20200604T180535Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20200330
+DTSTAMP:20200608T175539Z
+DESCRIPTION:Put an anti-racist reminder somewhere in your life — as your phone background\, a note on the wall\, a piece of art somewhere — to publicly commit yourself to anti-racism and to remind yourself of the importance of these efforts
+LAST-MODIFIED:20200604T192319Z
+STATUS:CONFIRMED
+SUMMARY:Day 26
+TRANSP:TRANSPARENT
+UID:27bs0037cgfjakqr2v94tci8h3@google.com
 END:VEVENT
 END:VCALENDAR
